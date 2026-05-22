@@ -134,11 +134,11 @@ All mechanical parts are designed in [CAD Software] and are available in both **
 ### Print Settings (Recommended)
 
 - **Material:** PLA or PETG
-- **Infill:** 30–40%
+- **Infill:** 15–40%
 - **Layer Height:** 0.2mm
 - **Supports:** Yes (for servo brackets)
-- **Print Orientation:** As provided in STL files
-
+- **Print Orientation:** Best for your 3d printer
+I would recommend you to use 20% infill if you are in budget.
 ---
 
 ## 💻 Software & Dependencies
