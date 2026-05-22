@@ -121,7 +121,7 @@ All mechanical parts are designed in [CAD Software] and are available in both **
 
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-Download%20CAD%20Files-orange?logo=data:image/png;base64,)](https://grabcad.com/rakesh.s.d-2)
 
-> 🔗 **[View on GrabCAD →](https://grabcad.com/library/quadruped-robot-using-sg90s-motor-1)**
+> 🔗 **[Download from GrabCAD →](https://grabcad.com/library/quadruped-robot-using-sg90s-motor-1)**
 
 ### Printed Parts List
 
