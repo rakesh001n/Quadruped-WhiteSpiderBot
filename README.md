@@ -111,9 +111,6 @@ Channel 7  ──────────► Leg 4 - Leg
 
 External 5V PSU ─────► PCA9685 V+ (servo power rail)
 ```
-
-> 📷 Add a schematic image: `![Schematic](assets/schematic.png)`
-
 ---
 
 ## 🖨️ 3D Printed Parts / CAD Files
