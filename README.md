@@ -48,8 +48,6 @@ The mechanical chassis is designed for modularity and easy assembly, making it a
 <!-- Add your GIF here -->
 ![WhiteSpiderBot Walking](assets/demo/walking.gif)
 
-![WhiteSpiderBot demo](assets/demo/demo_video.mp4)
-
 
 
 ### Assembly & Build
