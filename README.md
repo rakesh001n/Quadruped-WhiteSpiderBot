@@ -48,12 +48,16 @@ The mechanical chassis is designed for modularity and easy assembly, making it a
 <!-- Add your GIF here -->
 ![WhiteSpiderBot Walking](assets/demo/walking.gif)
 
+![WhiteSpiderBot demo](assets/demo/demo_video.gif)
+
+
+
 ### Assembly & Build
 
 <!-- Add build photos here -->
-| Top View | Side View | Electronics |
-|:---:|:---:|:---:|
-| ![Top](assets/demo/top_view.jpg) | ![Side](assets/demo/side_view.jpg) | ![Electronics](assets/demo/electronics.jpg) |
+| Isometric View | Electronics |
+|:---:|:---:|
+| ![Top](assets/quadruped_robot.jpeg) | ![Electronics](assets/schematics.png) |
 
 
 
